@@ -1,2 +1,5 @@
 # github-agile-hands-on
-Hands-on practice for GitHub, Linux, Bash, branches, and pull requests
+
+## Hands-on Exercise
+
+Created a Bash script and practiced Git branching.
